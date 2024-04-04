@@ -16,10 +16,10 @@ public class HelloWorld {
 		System.out.println("Hello World...");
          //hello world
 //		int squareRoot=(int)Math.sqrt(5); type conversion output:2
-		double squareRoot=Math.sqrt(5);
-		System.out.println("Square root of 5 is:"+squareRoot);
-		System.out.println("Today date:"+LocalDateTime.now());
-		System.out.println("Date:"+ new Date());
+		// double squareRoot=Math.sqrt(5);
+		// System.out.println("Square root of 5 is:"+squareRoot);
+		// System.out.println("Today date:"+LocalDateTime.now());
+		// System.out.println("Date:"+ new Date());
 //		new date constructor		
 	}
 
